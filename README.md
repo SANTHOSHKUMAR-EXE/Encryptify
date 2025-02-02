@@ -26,17 +26,6 @@ git clone https://github.com/santhoshkumar-exe/Encryptify.git
 cd Encryptify
 open index.html
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-Feel free to contribute to this project by submitting issues or pull requests.
-
-## 📩 Contact
-For any queries or suggestions, reach out to **Santhosh Kumar** via GitHub.
-
----
-
 Made with ❤️ by [Santhosh Kumar](https://github.com/santhoshkumar-exe)
 
 
