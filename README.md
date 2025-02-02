@@ -2,6 +2,8 @@
 
 A Cross-Platform implementation of Crypto-JS AES Text Encryption and Decryption wrapped in a modern UI.
 
+![Encryptify](https://github.com/SANTHOSHKUMAR-EXE/Encryptify/blob/main/Encryptify%20.png)
+
 ## 🔗 Live Demo
 [Encryptify](https://santhoshkumar-exe.github.io/Encryptify/)
 
@@ -19,10 +21,26 @@ A Cross-Platform implementation of Crypto-JS AES Text Encryption and Decryption 
 ## 🚀 Getting Started
 
 ### Clone the Repository
-```bash
+```sh
 git clone https://github.com/santhoshkumar-exe/Encryptify.git
+```
+
+### Open Locally
+```sh
 cd Encryptify
 open index.html
+```
 
+## 📜 License
+This project is open-source and available under the [MIT License](LICENSE).
 
+## 🤝 Contributing
+We welcome contributions! Feel free to fork the repository, create a feature branch, and submit a pull request.
+
+## 📩 Contact
+For any queries or suggestions, reach out to **Santhosh Kumar** via [GitHub](https://github.com/santhoshkumar-exe).
+
+---
+
+Made with ❤️ by [Santhosh Kumar](https://github.com/santhoshkumar-exe)
 
