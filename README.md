@@ -17,15 +17,12 @@ A Cross-Platform implementation of Crypto-JS AES Text Encryption and Decryption 
 - **JavaScript** – For implementing encryption and decryption functionality.
 
 ## 🚀 Getting Started
+
 ### Clone the Repository
-
+```bash
 git clone https://github.com/santhoshkumar-exe/Encryptify.git
-```
-### Open Locally
-
 cd Encryptify
 open index.html
 
-Made with ❤️ by [Santhosh Kumar](https://github.com/santhoshkumar-exe)
 
 
