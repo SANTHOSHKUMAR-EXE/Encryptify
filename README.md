@@ -1,4 +1,3 @@
-```ruby
 # Encryptify
 
 A Cross-Platform implementation of Crypto-JS AES Text Encryption and Decryption wrapped in a modern UI.
@@ -19,14 +18,13 @@ A Cross-Platform implementation of Crypto-JS AES Text Encryption and Decryption 
 
 ## 🚀 Getting Started
 ### Clone the Repository
-```sh
+
 git clone https://github.com/santhoshkumar-exe/Encryptify.git
 ```
 ### Open Locally
-```sh
+
 cd Encryptify
 open index.html
-```
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
@@ -40,5 +38,5 @@ For any queries or suggestions, reach out to **Santhosh Kumar** via GitHub.
 ---
 
 Made with ❤️ by [Santhosh Kumar](https://github.com/santhoshkumar-exe)
-```
+
 
